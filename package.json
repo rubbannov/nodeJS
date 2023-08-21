@@ -1,0 +1,29 @@
+{
+  "name": "homework2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rubbannov/nodeJS.git"
+  },
+  "keywords": [
+    "origin"
+  ],
+  "author": "igor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubbannov/nodeJS/issues"
+  },
+  "homepage": "https://github.com/rubbannov/nodeJS#readme",
+  "devDependencies": {
+    "eslint": "^8.47.0"
+  },
+  "dependencies": {
+    "prettier": "^3.0.2"
+  }
+}
